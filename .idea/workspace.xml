@@ -5,22 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6dbedea8-7ac2-469d-8b05-bb69ec357ce8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/qacart/todo/Base/PageBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/qacart/todo/Base/TestBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/qacart/todo/Factory/DriverFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/qacart/todo/Pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/qacart/todo/Pages/NewTodoPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/qacart/todo/Pages/TodoPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/qacart/todo/testcases/AddTodoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/qacart/todo/testcases/LoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,12 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Hussien-Aboelhagag/Todo-App.git",
-    "accountId": "41f86d70-3bd9-4780-8a57-9c6944b42f84"
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Hussien-Aboelhagag"
   }
 }]]></component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Hussien-Aboelhagag/Todo-App.git&quot;,
+    &quot;accountId&quot;: &quot;41f86d70-3bd9-4780-8a57-9c6944b42f84&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -54,19 +45,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;TestNG.AddTodoTest.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.AddTodoTest.userCanAddTodo.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.LoginTest.userCanLoginWithValidEmailAndPassword.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/Practical Automation/practical_Moatez/AutomationExerciseApp/AutomationExerciseApp&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.AddTodoTest.executor": "Run",
+    "TestNG.AddTodoTest.userCanAddTodo.executor": "Run",
+    "TestNG.LoginTest.userCanLoginWithValidEmailAndPassword.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/Practical Automation/practical_Moatez/nopCommerceApp/nopcomerceApp",
+    "settings.editor.selected.configurable": "MavenSettings"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="TestNG.E:/Practical Automation/Qacart_PracticalApp/QacartTodoApp/TodoApp/Testng.xml">
     <configuration name="AddTodoTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TodoApp" />
