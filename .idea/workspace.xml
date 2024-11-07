@@ -4,8 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6dbedea8-7ac2-469d-8b05-bb69ec357ce8" name="Changes" comment="">
+    <list default="true" id="6dbedea8-7ac2-469d-8b05-bb69ec357ce8" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qacart/todo/API/AddTodoAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qacart/todo/API/RegisterAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qacart/todo/Config/APIResources.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qacart/todo/Object/TodoAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qacart/todo/Object/UserDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qacart/todo/Utils/CookieUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qacart/todo/Utils/UserUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/qacart/todo/Base/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qacart/todo/Base/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/qacart/todo/Factory/DriverFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qacart/todo/Factory/DriverFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/qacart/todo/Pages/TodoPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qacart/todo/Pages/TodoPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/qacart/todo/testcases/AddTodoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qacart/todo/testcases/AddTodoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/qacart/todo/testcases/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qacart/todo/testcases/LoginTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,12 +35,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Hussien-Aboelhagag"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Hussien-Aboelhagag&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Hussien-Aboelhagag/Todo-App.git&quot;,
@@ -47,14 +60,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Dummy.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "TestNG.AddTodoTest.executor": "Run",
     "TestNG.AddTodoTest.userCanAddTodo.executor": "Run",
+    "TestNG.AddTodoTest.userCanDeleteTodo.executor": "Run",
+    "TestNG.E:/Practical Automation/Qacart_PracticalApp/QacartTodoApp/TodoApp/Testng.xml.executor": "Run",
+    "TestNG.LoginTest.executor": "Run",
     "TestNG.LoginTest.userCanLoginWithValidEmailAndPassword.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/Practical Automation/practical_Moatez/nopCommerceApp/nopcomerceApp",
+    "last_opened_file_path": "E:/Practical Automation/practical_Moatez/AutomationExerciseApp/AutomationExerciseApp",
     "settings.editor.selected.configurable": "MavenSettings"
   }
 }]]></component>
@@ -94,6 +111,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="AddTodoTest.userCanDeleteTodo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TodoApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qacart.todo.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qacart.todo.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.qacart.todo.testcases.AddTodoTest" />
+      <option name="METHOD_NAME" value="userCanDeleteTodo" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="E:/Practical Automation/Qacart_PracticalApp/QacartTodoApp/TodoApp/Testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TodoApp" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/Testng.xml" />
@@ -104,7 +139,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginTest.userCanLoginWithValidEmailAndPassword" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TodoApp" />
       <extension name="coverage">
         <pattern>
@@ -114,8 +149,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.qacart.todo.testcases" />
       <option name="MAIN_CLASS_NAME" value="com.qacart.todo.testcases.LoginTest" />
-      <option name="METHOD_NAME" value="userCanLoginWithValidEmailAndPassword" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -125,9 +159,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.E:/Practical Automation/Qacart_PracticalApp/QacartTodoApp/TodoApp/Testng.xml" />
-        <item itemvalue="TestNG.AddTodoTest" />
         <item itemvalue="TestNG.AddTodoTest.userCanAddTodo" />
-        <item itemvalue="TestNG.LoginTest.userCanLoginWithValidEmailAndPassword" />
+        <item itemvalue="TestNG.AddTodoTest.userCanDeleteTodo" />
+        <item itemvalue="TestNG.LoginTest" />
+        <item itemvalue="TestNG.AddTodoTest" />
       </list>
     </recent_temporary>
   </component>
@@ -140,6 +175,19 @@
       <option name="presentableId" value="Default" />
       <updated>1729634412128</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1729906572538</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729906572538</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
 </project>

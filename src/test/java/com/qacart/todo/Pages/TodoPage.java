@@ -42,5 +42,9 @@ public class TodoPage extends PageBase {
     public String getTodoItemNameAfterDelete(){
         return deleteTodoItemMSg.getText();
     }
+    public TodoPage load(){
+        driver.get("https://qacart-todo.herokuapp.com/todo");
+        return this;
+    }
 
 }
