@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6dbedea8-7ac2-469d-8b05-bb69ec357ce8" name="Changes" comment="initial commit">
+    <list default="true" id="6dbedea8-7ac2-469d-8b05-bb69ec357ce8" name="Changes" comment="adding attachment_ adding steps">
+      <change afterPath="$PROJECT_DIR$/.github/workflows/main.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/allure-results/0584a047-6ee3-4ce6-839f-5c8e6f1e0d29-container.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/allure-results/099c24bd-a9ba-4e61-b1e8-258b1a4ba0cc-container.json" beforeDir="false" />
@@ -45,12 +46,6 @@
       <change beforePath="$PROJECT_DIR$/allure-results/dc7632e4-02a4-4f4b-bb4b-8a3c54ae305a-result.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/allure-results/eeb282ec-19cb-4bb4-899b-3aee7460abdb-result.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/allure-results/eee6e1e7-0753-4d35-8a32-7ee3834144a4-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/qacart/todo/Base/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qacart/todo/Base/TestBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/qacart/todo/Pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qacart/todo/Pages/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/qacart/todo/Pages/TodoPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qacart/todo/Pages/TodoPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/qacart/todo/testcases/AddTodoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qacart/todo/testcases/AddTodoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/qacart/todo/testcases/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qacart/todo/testcases/LoginTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -216,11 +211,21 @@
       <option name="project" value="LOCAL" />
       <updated>1729906572538</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="adding attachment_ adding steps">
+      <option name="closed" value="true" />
+      <created>1731051077204</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731051077204</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="adding attachment" />
+    <MESSAGE value="adding attachment_ adding steps" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding attachment_ adding steps" />
   </component>
 </project>

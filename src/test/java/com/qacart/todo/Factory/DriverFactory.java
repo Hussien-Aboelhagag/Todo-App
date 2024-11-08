@@ -11,7 +11,7 @@ import java.time.Duration;
 public class DriverFactory {
     private WebDriver driver;
     public WebDriver initializeDriver(){
-        String browser=System.getProperty("browser","msEdge");
+        String browser=System.getProperty("browser","chrome");
         switch (browser){
             case "chrome":
                 driver=new ChromeDriver();
