@@ -5,17 +5,49 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6dbedea8-7ac2-469d-8b05-bb69ec357ce8" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/qacart/todo/API/AddTodoAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/qacart/todo/API/RegisterAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/qacart/todo/Config/APIResources.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/qacart/todo/Object/TodoAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/qacart/todo/Object/UserDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/qacart/todo/Utils/CookieUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/qacart/todo/Utils/UserUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/0584a047-6ee3-4ce6-839f-5c8e6f1e0d29-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/099c24bd-a9ba-4e61-b1e8-258b1a4ba0cc-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/159f8c2d-650c-440e-989e-07f079e0a894-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/17252b41-9299-4c34-8ad8-e37646710e39-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/22a6bb67-f488-4a6d-ace9-217fdfc1785d-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/2990d60a-447a-4b9e-a1bf-9985020e6eca-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/2b1969f9-fbd8-4eb0-b30c-f0b2af2b690f-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/2e692422-f2ac-49f7-a304-c9dda91b3d98-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/335d7a99-6424-4ff2-8bdb-c028e49f9b52-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/37f8a4d0-944e-409a-a911-37fc71f95394-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/3cbc4b8b-9be6-48d4-b65e-ac8b56c66880-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/4196f86b-090d-4423-98d0-0ddf15d23ae6-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/4e48245a-f7ea-4cfb-b1be-697d544dd714-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/66698100-8ecc-4f7c-ad0d-9467b8c2e9ec-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/6685741e-e90c-4dbd-9806-b986efd39786-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/672b21f2-7633-44be-85c4-506f607e08bc-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/6c11a121-91b3-4ee6-8c06-b666ba4c6731-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/77678845-283b-4f4a-9de8-fa0c32142346-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/7990b16c-e9c0-4739-8b52-e60fc7cfa821-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/7def0ed6-27de-4af6-9dcd-61532a741aa1-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/8446b255-c427-4ff4-bd68-ceaaecb0248f-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/8c701ef0-e49c-4108-b597-a4dca893415a-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/9e93d203-8671-487e-8adb-d873427c250a-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/a39a1b6f-050a-46d2-92ac-05598ff6e974-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/b3146290-ee59-4975-ae74-58206d99330b-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/b7f6eb8a-61bc-462b-a481-c85246921cc8-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/baa493df-a0e6-4fa1-9a18-8f59acbf3c70-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/bc06e8e8-33d8-4966-af08-8571c9736dfb-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/bdc7c885-5e5c-4b0f-beab-4f7c7c5565a7-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/c75ad4cb-9e41-4dc5-bdd9-c4821fa7c3c8-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/cb88e17a-accd-44e0-9624-e6362d4261ad-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/cf67d89a-f26f-4eb1-abad-2f2c67934273-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/d0683802-fc9c-48c8-a0ab-19fb79a21a83-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/d24432b8-649c-48cb-a07a-ecc9a981634f-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/d3401c87-f65c-4cfe-a247-392ae4233ea2-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/dc320d20-045c-4ced-9188-2fc1ac50df41-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/dc7632e4-02a4-4f4b-bb4b-8a3c54ae305a-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/eeb282ec-19cb-4bb4-899b-3aee7460abdb-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/eee6e1e7-0753-4d35-8a32-7ee3834144a4-container.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/qacart/todo/Base/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qacart/todo/Base/TestBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/qacart/todo/Factory/DriverFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qacart/todo/Factory/DriverFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/qacart/todo/Pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qacart/todo/Pages/LoginPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/qacart/todo/Pages/TodoPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qacart/todo/Pages/TodoPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/qacart/todo/testcases/AddTodoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qacart/todo/testcases/AddTodoTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/qacart/todo/testcases/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qacart/todo/testcases/LoginTest.java" afterDir="false" />
@@ -58,41 +90,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Dummy.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "TestNG.AddTodoTest.executor": "Run",
-    "TestNG.AddTodoTest.userCanAddTodo.executor": "Run",
-    "TestNG.AddTodoTest.userCanDeleteTodo.executor": "Run",
-    "TestNG.E:/Practical Automation/Qacart_PracticalApp/QacartTodoApp/TodoApp/Testng.xml.executor": "Run",
-    "TestNG.LoginTest.executor": "Run",
-    "TestNG.LoginTest.userCanLoginWithValidEmailAndPassword.executor": "Run",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/Practical Automation/practical_Moatez/AutomationExerciseApp/AutomationExerciseApp",
-    "settings.editor.selected.configurable": "MavenSettings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Dummy.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.AddTodoTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.AddTodoTest.userCanAddTodo.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.AddTodoTest.userCanDeleteTodo.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.E:/Practical Automation/Qacart_PracticalApp/QacartTodoApp/TodoApp/Testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTest.userCanLoginWithValidEmailAndPassword.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Practical Automation/practical_Moatez/AutomationExerciseApp/AutomationExerciseApp&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="TestNG.E:/Practical Automation/Qacart_PracticalApp/QacartTodoApp/TodoApp/Testng.xml">
-    <configuration name="AddTodoTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TodoApp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.qacart.todo.testcases.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.qacart.todo.testcases" />
-      <option name="MAIN_CLASS_NAME" value="com.qacart.todo.testcases.AddTodoTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}</component>
+  <component name="RunManager" selected="TestNG.LoginTest.userCanLoginWithValidEmailAndPassword">
     <configuration name="AddTodoTest.userCanAddTodo" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TodoApp" />
       <extension name="coverage">
@@ -156,13 +171,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LoginTest.userCanLoginWithValidEmailAndPassword" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TodoApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qacart.todo.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qacart.todo.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.qacart.todo.testcases.LoginTest" />
+      <option name="METHOD_NAME" value="userCanLoginWithValidEmailAndPassword" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.LoginTest.userCanLoginWithValidEmailAndPassword" />
         <item itemvalue="TestNG.E:/Practical Automation/Qacart_PracticalApp/QacartTodoApp/TodoApp/Testng.xml" />
         <item itemvalue="TestNG.AddTodoTest.userCanAddTodo" />
         <item itemvalue="TestNG.AddTodoTest.userCanDeleteTodo" />
         <item itemvalue="TestNG.LoginTest" />
-        <item itemvalue="TestNG.AddTodoTest" />
       </list>
     </recent_temporary>
   </component>

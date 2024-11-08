@@ -1,6 +1,7 @@
 package com.qacart.todo.Pages;
 
 import com.qacart.todo.Base.PageBase;
+import io.qameta.allure.Step;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -24,18 +25,20 @@ public class TodoPage extends PageBase {
     WebElement deleteTodoItem;
     @FindBy(css = "[data-testid='no-todos']")
     WebElement deleteTodoItemMSg;
-
+    @Step("add todo item")
     public void todoSteps(String todoItem){
         clickBtn(addBtn);
         setTxtElement(todoInput,todoItem);
         clickBtn(createBtn);
     }
+    @Step
     public Boolean loginMsgIsDisplayed(){
         return loginMsg.isDisplayed();
     }
     public String getTodoItemName(){
         return todoItem.getText();
     }
+    @Step
     public void deleteTodo(){
         clickBtn(deleteTodoItem);
     }

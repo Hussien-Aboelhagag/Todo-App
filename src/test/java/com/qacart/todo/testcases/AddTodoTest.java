@@ -4,14 +4,14 @@ import com.qacart.todo.API.AddTodoAPI;
 import com.qacart.todo.API.RegisterAPI;
 import com.qacart.todo.Base.TestBase;
 import com.qacart.todo.Pages.TodoPage;
-import io.qameta.allure.Description;
-import io.qameta.allure.Severity;
-import io.qameta.allure.SeverityLevel;
+import io.qameta.allure.*;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class AddTodoTest extends TestBase {
-    @Test
+    @Test(description = "test Add todo")
+    @Story("login the email, add todo")
+    @Feature("Adding Todo")
     @Severity(SeverityLevel.CRITICAL)
     @Description("validate that user can login with valid data, and add todo")
     public void userCanAddTodo(){
@@ -22,7 +22,9 @@ public class AddTodoTest extends TestBase {
         todoPage.todoSteps("learn selenium");
         Assert.assertEquals(todoPage.getTodoItemName(),"learn selenium");
     }
-    @Test()
+    @Test(description = "test Delete todo")
+    @Story("login the email, add todo, and delete it")
+    @Feature("Deleting Todo")
     @Severity(SeverityLevel.CRITICAL)
     @Description("validate that user can login with valid data, add todo, and delete")
     public void userCanDeleteTodo(){
